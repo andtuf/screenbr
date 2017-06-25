@@ -1,9 +1,9 @@
 # screenbr
 Simple python utility to easily set screen brightness via xrandr
 
-   Usage:  screenbr option 
+    Usage:  screenbr option 
 
-   Options:
+    Options:
       +      to increase screen brightness by 0.1
       -      to decrease screen brightness by 0.1
       max    to set screen brightness to maximum level (1)
